@@ -1,4 +1,7 @@
 ### Hi there 👋
+Me chamo João Vítor Silva Ferreira e atualmente estou focando no desenvovilmento web.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaovitor7&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jjoaovitor7/jjoaovitor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

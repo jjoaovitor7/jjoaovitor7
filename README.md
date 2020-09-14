@@ -1,5 +1,5 @@
 ### Hi there 👋
-Me chamo João Vítor Silva Ferreira e atualmente estou focando no desenvovilmento web.
+Me chamo João Vítor Silva Ferreira e atualmente estou focando no desenvolvimento web.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaovitor7&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 

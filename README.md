@@ -2,6 +2,8 @@
 Me chamo João Vítor Silva Ferreira e atualmente estou focando no desenvolvimento web. Possuo conhecimento em HTML, CSS, JavaScript, NodeJS, Python, Tkinter e Firebase.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaovitor7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+![Estatísticas do Github de jjoaovitor7](https://github-readme-stats.vercel.app/api?username=jjoaovitor7&show_icons=true&theme=dark)
 
 <!--
 **jjoaovitor7/jjoaovitor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

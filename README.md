@@ -1,5 +1,6 @@
 ### Olá! 👋
-Me chamo João Vítor Silva Ferreira e atualmente estou focando no desenvolvimento web. Possuo conhecimento em HTML, CSS, JavaScript, NodeJS, Python, Tkinter e Firebase.
+Me chamo João Vítor Silva Ferreira e atualmente estou focando no desenvolvimento web.
+Possuo conhecimento em HTML, CSS, JavaScript, React Native, Electron, NodeJS, Python, Tkinter e Firebase.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaovitor7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />

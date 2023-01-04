@@ -52,7 +52,7 @@ Possuo conhecimento em:
 <div>
 <br />
 
-<div>
+<div style="display: flex;">
 
 ![Estatísticas do Github de jjoaovitor7](https://github-readme-stats.vercel.app/api?username=jjoaovitor7&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaovitor7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

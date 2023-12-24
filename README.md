@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Meu nome é João Vítor, estou cursando Graduação em Ciência da Computação e focando em desenvolvimento web.
+Meu nome é João Vítor, recentemente graduado em Ciência da Computação e focando em desenvolvimento full-stack web & mobile e devops.
 
 Possuo conhecimento em:
 

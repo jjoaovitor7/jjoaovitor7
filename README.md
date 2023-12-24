@@ -36,9 +36,9 @@ Possuo conhecimento em:
 <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='Git' />
 <img src='https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.JS' />
 <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61dafb' alt='React Native' />
-<br />
 <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white' alt='Docker' />
-<img src='https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='Visual Studio Code' />
+<br />
+<img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='Visual Studio Code' />
 <img src='https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white' alt='Python3' />
 <img src='https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white' alt='Electron' />
 </div>

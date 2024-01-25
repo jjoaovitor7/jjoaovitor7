@@ -1,6 +1,7 @@
 ### Olá! 👋
 
 Meu nome é João Vítor.
+
 Graduado em Ciência da Computação (1º semestre de 2023) e posso atuar como desenvolvedor full-stack web & mobile (e áreas relacionadas). 
 
 Possuo conhecimento em:

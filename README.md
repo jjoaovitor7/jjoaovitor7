@@ -1,11 +1,12 @@
-### Olá! 👋
-
+#### Olá! 👋
 Meu nome é João Vítor.
-
+<br /><br />
 Graduado em Ciência da Computação (1º semestre de 2023) e posso atuar como desenvolvedor full-stack web & mobile (e áreas relacionadas). 
+<br /><br />
 
-Possuo conhecimento em:
-> Web
+Conhecimentos:
+
+> Web e Banco de Dados
 <div>
 <img
   src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'
@@ -19,14 +20,9 @@ Possuo conhecimento em:
   src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'
   alt='JS'
   height='28' />
-<br />
 <img
   src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white'
   alt='Bootstrap'
-  height='28' />
-<img
-  src='https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white'
-  alt='jQuery'
   height='28' />
 <img
   src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white'
@@ -34,11 +30,7 @@ Possuo conhecimento em:
   height='28' />
 <img src='https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white'
   alt='WordPress' height='28' />
-</div>
 <br />
-
-> Banco de Dados
-<div>
 <img
   src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white'
   alt='MariaDB'
@@ -74,12 +66,15 @@ Possuo conhecimento em:
 <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61dafb'
   alt='React Native'
   height='28' />
-<br />
+<img src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white'
+  alt='C#'
+  height='28' />
 <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'
   alt='Docker'
   height='28' />
+<br />
 <img
-  src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20codee&logoColor=white'
+  src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'
   alt='Visual Studio Code'
   height='28' />
 <img
@@ -108,14 +103,14 @@ Possuo conhecimento em:
 <img
     src='https://github-readme-stats.vercel.app/api?username=jjoaovitor7&show_icons=true&theme=tokyonight'
     alt='Github Stats'
-    height='200' />
+    height='164' />
 <img
     src='https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaovitor7&layout=compact&theme=tokyonight'
     alt='Top langs'
-    height='200' />
+    height='164' />
 </div>
 
 <img
     src='https://github-readme-activity-graph.vercel.app/graph?username=jjoaovitor7&theme=tokyo-night'
     alt='Activity Graph'
-    height='296' />
+    height='242' />

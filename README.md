@@ -12,7 +12,7 @@
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,go,php,wordpress,nodejs,express,react,tailwind,postgres,sqlite,vim,linux,docker,cs,vscode" />
+    src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,go,php,wordpress,nodejs,express,react,tailwind,postgres,sqlite,vim,linux,docker,cs,vscode&perline=7" />
 </div>
 
 <div align="center">
@@ -39,4 +39,8 @@
 
   <img src='https://github-readme-activity-graph.vercel.app/graph?username=jjoaovitor7&theme=tokyo-night'
     alt='Activity Graph' height='242' />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=164&color=0000FF&section=footer&reversal=false" />
 </div>

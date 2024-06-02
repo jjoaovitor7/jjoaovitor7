@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  Graduado em Ciência da Computação e posso atuar como desenvolvedor full-stack web & mobile (e áreas relacionadas).
+  Graduado em Ciência da Computação e posso atuar como desenvolvedor full-stack (back-end / front-end) web & mobile. 
 </p>
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,go,php,wordpress,nodejs,express,react,tailwind,postgres,sqlite,vim,linux,docker,cs,vscode&perline=7" />
+    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,ts,go,playwright,php,wordpress,nodejs,express,react,tailwind,postgres,sqlite,vim,linux,docker,cs,vscode&perline=7" />
 </div>
 
 <div align="center">

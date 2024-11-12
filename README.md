@@ -12,7 +12,7 @@
 
 <div align="center">
   <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,ts,go,playwright,angular,php,wordpress,nodejs,express,react,tailwind,postgres,sqlite,vim,linux,docker,cs,vscode&perline=7" />
+    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,ts,go,playwright,angular,php,wordpress,nodejs,express,react,tailwind,postgres,sqlite,vim,linux,docker,vscode&perline=7" />
 </div>
 
 <div align="center">

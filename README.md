@@ -32,12 +32,12 @@
 
   <div>
     <div>
-      <img src='https://github-readme-stats.vercel.app/api?username=jjoaovitor7&show_icons=true&theme=tokyonight'
-        alt='Github Stats' height='164' />
-      <img
-        src='https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaovitor7&layout=compact&theme=tokyonight'
-        alt='Top langs' height='164' />
+      <!-- <img src='https://github-readme-stats.vercel.app/api?username=jjoaovitor7&show_icons=true&theme=tokyonight'
+        alt='Github Stats' height='164' /> -->
+      <img src='https://github-toplangs.alwaysdata.net/toplangs?user=jjoaovitor7&hide=mdx,csharp,python,ejs'
+        alt='Top langs' height='350' />
     </div>
+    <br />
     <img src='https://github-readme-activity-graph.vercel.app/graph?username=jjoaovitor7&theme=tokyo-night'
       alt='Activity Graph' height='242' />
   </div>

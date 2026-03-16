@@ -32,14 +32,17 @@
 
   <div>
     <div>
-      <!-- <img src='https://github-readme-stats.vercel.app/api?username=jjoaovitor7&show_icons=true&theme=tokyonight'
-        alt='Github Stats' height='164' /> -->
-      <img src='https://github-toplangs.alwaysdata.net/toplangs?user=jjoaovitor7&hide=mdx,csharp,python,ejs'
-        alt='Top langs' height='350' />
+      <img src='https://github-readme-stats.vercel.app/api?username=jjoaovitor7&show_icons=true&theme=tokyonight'
+        alt='Github Stats' height='200' />
+    </div>
+    <br />
+    <div>
+      <img src='https://jj-ghtoplangs.alwaysdata.net/toplangs?user=jjoaovitor7&hide=mdx,csharp,python,ejs&bgcolor=1a1b27&titlecolor=fff'
+        alt='GitHub Top Langs' height='256' />
     </div>
     <br />
     <img src='https://github-readme-activity-graph.vercel.app/graph?username=jjoaovitor7&theme=tokyo-night'
-      alt='Activity Graph' height='242' />
+      alt='Activity Graph' height='256' />
   </div>
 
   <div>

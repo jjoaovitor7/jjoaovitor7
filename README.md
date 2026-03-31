@@ -32,7 +32,7 @@
 
   <div>
     <div>
-      <img src='https://github-readme-stats.vercel.app/api?username=jjoaovitor7&show_icons=true&theme=tokyonight'
+      <img src='https://github-readme-stats.shion.dev/api?username=jjoaovitor7&show_icons=true&theme=tokyonight'
         alt='Github Stats' height='200' />
     </div>
     <br />

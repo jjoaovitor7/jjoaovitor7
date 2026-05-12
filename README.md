@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <p>
     <strong>
       Olá! 👋
@@ -6,17 +6,28 @@
   </p>
 
   <p>
-    Meu nome é João Vítor.
+    Meu nome é João Vítor. Bacharel em Ciência da Computação e desenvolvedor com mais de 4 anos de experiência nos escopos de mobile, APIs e web.
   </p>
 
   <p>
-   Bacharel em Ciência da Computação e desenvolvedor com mais de 4 anos de experiência nos escopos de APIs, web e mobile. 
+    Atuo principalmente com React Native e Kotlin no desenvolvimento mobile, desde a prototipagem até a publicação do app. No escopo web, atuo com Angular, TypeScript e React, enquanto no back-end atuo com Go, além de TS, Java e PHP, em conjunto com PostgreSQL, MariaDB e Apache.
   </p>
 
+  <p>
+    Adicionalmente, possuo experiência com Kanban, contribuindo para organização e eficiência no fluxo de desenvolvimento.
+  </p>
+
+  <hr />
+
   <div>
+    <h4>
+      Tecnologias
+    </h4>
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,ts,angular,neovim,go,java,playwright,php,wordpress,nodejs,express,react,tailwind,postgres,sqlite,linux,docker,vscode&perline=7" />
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,ts,angular,neovim,go,java,playwright,kotlin,php,wordpress,nodejs,express,react,lua,postgres,sqlite,linux,docker&perline=7" />
   </div>
+
+  <hr />  
 
   <div>
     <h4>
@@ -28,12 +39,12 @@
     </a>
   </div>
 
-  <br /><br />
+  <hr />
 
   <div>
     <div>
       <img src='https://github-readme-stats.vercel.app/api?username=jjoaovitor7&show_icons=true&theme=tokyonight'
-        alt='Github Stats' height='200' />
+        alt='Github Stats' height='256' />
     </div>
     <br />
     <div>
@@ -43,9 +54,5 @@
     <br />
     <img src='https://github-readme-activity-graph.vercel.app/graph?username=jjoaovitor7&theme=tokyo-night'
       alt='Activity Graph' height='256' />
-  </div>
-
-  <div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=164&color=0000FF&section=footer&reversal=false" />
   </div>
 </div>
